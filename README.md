@@ -19,11 +19,8 @@ In this project, I ran up a windows 10 virtual machine, connected log analytics 
 - <b>Paste in API key.</b> 
 
 
+<h2>Projects Images:</h2>
+- <b>Map of Failed Login Attempts</b>
+  -(https://github.com/devintechpadawan/Implementing-a-SOC-and-Honeynet-in-Azure-/issues/1#issue-1978179297)
 
 
-
-
-
-
-
-https://github.com/devintechpadawan/Implementing-a-SOC-and-Honeynet-in-Azure-/issues/1#issue-1978179297
