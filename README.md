@@ -1,7 +1,7 @@
 # Implementing-a-SOC-and-Honeynet-in-Azure-
 
 <h2>Description</h2>
-In this project, I ran up a windows 10 virtual machine, connected log analytics and Microsoft Sentinel in Azure. Next, I turned the vm'w firewall off used a PowerShell script to pull geolocation data from the ipaddresses through an API. Then I used a KQL query to display the failed login geolocation and number of failures in Microsoft Sentinel Workbook. 
+In this project, I ran up a windows 10 virtual machine, connected log analytics and Microsoft Sentinel in Azure. Next, I turned the vm's firewall off and used a PowerShell script to pull geolocation data from the ipaddresses through an API. Then I used a KQL query to display the failed login geolocation and number of failures in Microsoft Sentinel Workbook. 
 
 <h2>Language Used</h2>
 
